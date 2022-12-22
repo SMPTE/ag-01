@@ -1,5 +1,11 @@
 # SMPTE HTML Publication artifacts
 /build
+<<<<<<< HEAD
+=======
+/package.json
+/package-lock.json
+
+>>>>>>> main
 
 # MacOS
 .DS_Store
